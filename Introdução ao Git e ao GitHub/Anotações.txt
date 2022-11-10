@@ -1,0 +1,32 @@
+GIT E GITHUB - para MAC
+
+1 - Na aula ´chave SSH e Token`, o prove fala sobre o git bash e no MAC é usado o terminal mesmo - fiquei um bom tempo pesquisando sobre pois não achava o GIT BASH na maquina ate encontrar um dev falando sobre tal confusão. UFAAA!!!!
+
+
+
+2- No momento da aula em que elo prove passa 
+
+ssh-keygen -t ed25519 -C (seu email) coloque-o entre aspas pois ao contrário não irá funcionar : ssh-keygen -t ed25519 -C "your_email@example.com"
+
+https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+
+3- Na próxima etapa procure onde realmente está NO SEU COMPUTADOR, ou seja, o SEU CAMINHO - papo esotérico kkk
+
+Your identification has been saved in _____
+
+E então faça o cd /SEU CAMINHO
+
+
+
+….
+
+
+
+4 - git clone ???? Permission denied - esqueço de colocar: sudo na frente
+
+Para mim ocorre que meu MAC é Sierra 10.13 então precisei fazer outros comandos para adicionar a chave SSH
+
+/usr/bin/ssh-add -K ~/.ssh/id_ed25519
+
