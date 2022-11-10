@@ -14,7 +14,7 @@ https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generati
 
 3- Na próxima etapa procure onde realmente está NO SEU COMPUTADOR, ou seja, o SEU CAMINHO - papo esotérico kkk
 
-Your identification has been saved in _____
+Your identification has been saved in ___
 
 E então faça o cd /SEU CAMINHO
 
