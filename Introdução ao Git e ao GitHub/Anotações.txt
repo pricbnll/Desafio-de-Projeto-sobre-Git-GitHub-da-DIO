@@ -30,3 +30,9 @@ Para mim ocorre que meu MAC é Sierra 10.13 então precisei fazer outros comando
 
 /usr/bin/ssh-add -K ~/.ssh/id_ed25519
 
+
+----
+
+Add SSH no MAC
+https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
