@@ -33,6 +33,6 @@ Para mim ocorre que meu MAC é Sierra 10.13 então precisei fazer outros comando
 
 ----
 
-Add SSH no MAC
+Add SSH no MAC - opção para MAC Sierra
 https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
