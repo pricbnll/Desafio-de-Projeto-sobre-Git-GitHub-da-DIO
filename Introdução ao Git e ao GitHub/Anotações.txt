@@ -4,7 +4,7 @@ GIT E GITHUB - para MAC
 
 
 
-2- No momento da aula em que elo prove passa 
+2- No momento da aula em que o professor passa 
 
 ssh-keygen -t ed25519 -C (seu email) coloque-o entre aspas pois ao contrário não irá funcionar : ssh-keygen -t ed25519 -C "your_email@example.com"
 
@@ -29,4 +29,10 @@ https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generati
 Para mim ocorre que meu MAC é Sierra 10.13 então precisei fazer outros comandos para adicionar a chave SSH
 
 /usr/bin/ssh-add -K ~/.ssh/id_ed25519
+
+
+----
+
+Add SSH no MAC - opção para MAC Sierra
+https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
