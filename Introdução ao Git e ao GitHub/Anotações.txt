@@ -4,7 +4,7 @@ GIT E GITHUB - para MAC
 
 
 
-2- No momento da aula em que elo prove passa 
+2- No momento da aula em que o professor passa 
 
 ssh-keygen -t ed25519 -C (seu email) coloque-o entre aspas pois ao contrário não irá funcionar : ssh-keygen -t ed25519 -C "your_email@example.com"
 
