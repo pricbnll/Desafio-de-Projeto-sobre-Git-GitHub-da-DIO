@@ -14,4 +14,3 @@ git pull origin main
 git fetch/merge - Fazer pull de alterações de um repositório remote? Saber mais pois não esta na aula
 
 https://docs.github.com/pt/get-started/using-git/getting-changes-from-a-remote-repository
-git pcd ull
